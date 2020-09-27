@@ -14,7 +14,7 @@ var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/workout"
 mongoose.connect(MONGODB_URI, {useNewUrlParser: true})
 
 // routes
-app.use(require("./seeders/seed.js"));
+app.use(require("./routes/api"));
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
