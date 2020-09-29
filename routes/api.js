@@ -3,11 +3,11 @@ const router = require("express").Router();
 const path = require("path");
 
 router.get("/exercise", (req, res) => {
-    res.sendFile(path.join(__dirname, "../public/exercist.html"));
+    res.sendFile(path.join(__dirname, "../public/exercise.html"));
 });
 
 router.get("/stats", (req, res) => {
-    res.sendFile(path.join(_dirname, "../public/stats.html"));
+    res.sendFile(path.join(__dirname, "../public/stats.html"));
 });
 
 router.get("/api/workouts", (req, res) => {
