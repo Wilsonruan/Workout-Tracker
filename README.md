@@ -2,7 +2,7 @@
 
 ## Description:
 
-As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+As a user, you will be able to create and track daily workouts. You will be able to log multiple exercises in a workout on a given day. You can also track the name, type, weight, sets, reps, and duration of exercise. For example, if the exercise is a cardio exercise, you are able to track my distance traveled.
 
 ## Table of Contents
 
@@ -19,11 +19,12 @@ To use this application, first you will need to clone or download the codes from
 
 ## Usage:
 
-
+You can add exercises to a previous workout plan, add new exercises to a new workout plan, and view the combined weight of multiple exercises on the `stats` page.
+![ScreenShot](.\public\images\screenshot.jpg)
 
 ## License:
-    - [MIT](https://choosealicense.com/licenses/mit/)
-    - [ISC](https://choosealicense.com/licenses/isc/)
+  - [MIT](https://choosealicense.com/licenses/mit/)
+  - [ISC](https://choosealicense.com/licenses/isc/)
 
 ## Contributing:
 
