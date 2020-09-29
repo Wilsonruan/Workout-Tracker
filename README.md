@@ -1,5 +1,3 @@
-
-
 # Workout Tracker
 
 ## Description:
@@ -33,7 +31,7 @@ This is my own
 
 ## Test:
 
-npm test
+Run the command : npm run test
 
 ## Questions: 
   - Please feel free to contact for additional questions by email below: 
