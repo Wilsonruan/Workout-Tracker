@@ -17,8 +17,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 - [Questions](#questions)
 
 ## Installation:
-    To use this application, first you will need to clone or download the codes from my GitHub. Enter 'npm install morgan mongoose express' in terminal and then 'node server.js'  
-Open Web Browser and search "http://localhost:3000/"
+To use this application, first you will need to clone or download the codes from my GitHub. Enter 'npm install morgan mongoose express' in terminal and then 'node server.js' Open Web Browser and search "http://localhost:3000/"
 
 ## Usage:
 
