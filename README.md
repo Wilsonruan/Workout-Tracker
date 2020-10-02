@@ -20,7 +20,7 @@ To use this application, first you will need to clone or download the codes from
 ## Usage:
 
 You can add exercises to a previous workout plan, add new exercises to a new workout plan, and view the combined weight of multiple exercises on the `stats` page.
-![ScreenShot](\public\images\screenshot.jpg)
+![ScreenShot](./public/images/screenshot.jpg)
 
 ## License:
   - [MIT](https://choosealicense.com/licenses/mit/)
